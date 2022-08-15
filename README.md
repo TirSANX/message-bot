@@ -1,4 +1,4 @@
-# discord-bot-lua-obfuscator (python 3.7.9)
+# discord-bot-lua-obfuscator (python 3.7.9)(jmesfo0)
 
 # Live Preview: https://discord.gg/STaq3UDbqQ
 <img src="https://i.imgur.com/DlO9XIa.png">
