@@ -19,7 +19,16 @@ In repl put DISCORD_TOKEN in system environment variables.
 In repl shell type chmod +x bin/* to allow lit luvi & luvit to be executed.
 Enjoy your free private obfuscator.
 ```
-
+## Installation
+- Install lua for your os: https://www.lua.org/download.html
+- clone this repo by running this command: 
+```
+git clone https://github.com/TirSANX/chat-bot.git
+```
+- Install required packages by running this command:
+```
+pip install -r requirements.txt
+```
 ## Required python modules:
 - Discord.py 
 - requests
