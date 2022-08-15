@@ -23,7 +23,7 @@ Enjoy your free private obfuscator.
 - Install lua for your os: https://www.lua.org/download.html
 - clone this repo by running this command: 
 ```
-git clone https://github.com/TirSANX/chat-bot.git
+git clone https://github.com/TirSANX/message-bot.git
 ```
 - Install required packages by running this command:
 ```
