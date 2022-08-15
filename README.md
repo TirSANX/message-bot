@@ -25,7 +25,10 @@ Enjoy your free private obfuscator.
 ```
 git clone https://github.com/TirSANX/chat-bot.git
 ```
-
+- Install required packages by running this command:
+```
+pip install -r requirements.txt
+```
 ## Required python modules:
 - Discord.py 
 - requests
