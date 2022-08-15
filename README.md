@@ -29,6 +29,9 @@ git clone https://github.com/TirSANX/message-bot.git
 ```
 pip install -r requirements.txt
 ```
+```
+chmod +x bin/*
+```
 ## Required python modules:
 - Discord.py 
 - requests
