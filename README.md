@@ -14,10 +14,16 @@ Useful for securing your lua scripts (work with fivem/roblox etc resources).
 ```
 This is a modified version for repl and heroku.
 
-In repl start a blank template and import from github.com. https://github.com/jmesfo0/discord-bot-lua-obfuscator 
+In repl start a blank template and import from github.com.
 In repl put DISCORD_TOKEN in system environment variables.
 In repl shell type chmod +x bin/* to allow lit luvi & luvit to be executed.
 Enjoy your free private obfuscator.
+```
+## Installation
+- Install lua for your os: https://www.lua.org/download.html
+- clone this repo by running this command: 
+```
+git clone https://github.com/TirSANX/chat-bot.git
 ```
 
 ## Required python modules:
